@@ -21,11 +21,8 @@
 
 ## 실행
 ```bash
-python timer.py
+python killcomv3.py
 ```
 표준 라이브러리(tkinter)만 사용 — 별도 설치 불필요.
 
 > ⚠️ 타이머 종료 시 전원 명령이 실행됩니다. 작업은 미리 저장하세요.
-
-## 환경
-- Python 3.x (tkinter 포함)
